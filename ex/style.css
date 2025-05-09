@@ -1,0 +1,17 @@
+#GLOBALDESCRIPTION {
+    font-size: 2em;
+    background: olive;
+    color: cornsilk;
+    border-radius: 10px;
+    padding: 2em;
+}
+
+.ware-desc {
+    display: none;
+    font-size: 2em;
+    position: absolute;
+    background: white;
+    border: 1px solid olive;
+    padding: .3em;
+}
+
